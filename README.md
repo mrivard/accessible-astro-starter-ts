@@ -1,9 +1,6 @@
-*Notes:*
+# Accessible Astro Starter for Typescript
 
-- I just cloned [Mark Teekman](https://github.com/markteekman)'s [repository](https://github.com/markteekman/accessible-astro-starter). I will push the conversion to Typescript shortly.
-- The rest of this readme was written by Mark.
-
-# Accessible Astro Starter
+A fork of [Mark Teekman](https://github.com/markteekman)'s [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter) theme, with support added for strict Typescript.
 
 ![social-preview-image](https://user-images.githubusercontent.com/3909046/219942674-9894853e-def8-4180-84b8-6b577dacfcaa.png)
 
@@ -40,7 +37,18 @@ Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme
 
 ## 🚀 Getting started
 
-Clone this theme locally and run any of the following commands in your terminal:
+Create a new Astro project by either:
+- cloning this repository:
+   ```
+   git clone https://github.com/mrivard/accessible-astro-starter-ts.git
+   ```
+*&ndash;or&ndash;*
+- using this repository as your project's template:
+   ```
+   npm create astro@latest -- --template mrivard/accessible-astro-starter-ts
+   ```
+
+Then, run any of the following commands in your project's directory:
 
 | Command           | Action                                       |
 | :---------------- | :------------------------------------------- |
@@ -56,15 +64,15 @@ Clone this theme locally and run any of the following commands in your terminal:
 
 ## ❤️ Helping out
 
-If you find that something isn't working right then I'm always happy to hear it to improve this starter! You can contribute in many ways and forms. Let me know by either:
+I would love for you to help with any Typescript-related issues by either:
 
-1. [Filing an issue](https://github.com/markteekman/accessible-astro-starter/issues)
-2. [Submitting a pull request](https://github.com/markteekman/accessible-astro-starter/pulls)
-3. [Starting a discussion](https://github.com/markteekman/accessible-astro-starter/discussions)
-4. [Buying me a coffee!](https://www.buymeacoffee.com/markteekman)
+1. [Filing an issue](https://github.com/mrivard/accessible-astro-starter-ts/issues)
+2. [Submitting a pull request](https://github.com/mrivard/accessible-astro-starter-ts/pulls)
+3. [Starting a discussion](https://github.com/mrivard/accessible-astro-starter-ts/discussions)
+
+For any issues that are *not* Typescript-related, you would be much better served by engaging with [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter?tab=readme-ov-file#%EF%B8%8F-helping-out) instead.
 
 ## ☕ Thank you!
 
-A big thank you to the creators of the awesome Astro static site generator and to all using this starter to make the web a bit more accessible for all people around the world :)
+A big thank you to [Mark Teekman](https://github.com/markteekman) and his [contributors](https://github.com/markteekman/accessible-astro-starter/graphs/contributors), who did 99.999% of the work on this theme, and to the creators of the awesome Astro static site generator. I forked Mark's theme for my own personal use, and perhaps you will find it useful as well.
 
-[![buymeacoffee-button](https://user-images.githubusercontent.com/3909046/150683481-be070424-7bb0-4dd7-a3cb-43b5605163f5.png)](https://www.buymeacoffee.com/markteekman)
