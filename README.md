@@ -1,3 +1,8 @@
+*Notes:*
+
+- I just cloned [Mark Teekman](https://github.com/markteekman)'s [repository](https://github.com/markteekman/accessible-astro-starter). I will push the conversion to Typescript shortly.
+- The rest of this readme was written by Mark.
+
 # Accessible Astro Starter
 
 ![social-preview-image](https://user-images.githubusercontent.com/3909046/219942674-9894853e-def8-4180-84b8-6b577dacfcaa.png)
