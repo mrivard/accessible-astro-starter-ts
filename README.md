@@ -1,6 +1,6 @@
-# Accessible Astro Starter for Typescript
+# Accessible Astro Starter for TypeScript
 
-A fork of [Mark Teekman](https://github.com/markteekman)'s [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter) theme, with support added for strict Typescript.
+A fork of [Mark Teekman](https://github.com/markteekman)'s [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter) theme, with support added for strictest TypeScript.
 
 ![social-preview-image](https://user-images.githubusercontent.com/3909046/219942674-9894853e-def8-4180-84b8-6b577dacfcaa.png)
 
