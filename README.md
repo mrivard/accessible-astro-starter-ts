@@ -62,15 +62,15 @@ Then, run any of the following commands in your project's directory:
 
 ## ❤️ Helping out
 
-I would love for you to help with any Typescript-related issues by either:
+I greatly encourage you to help with any TypeScript-related issues by either:
 
 1. [Filing an issue](https://github.com/mrivard/accessible-astro-starter-ts/issues)
 2. [Submitting a pull request](https://github.com/mrivard/accessible-astro-starter-ts/pulls)
 3. [Starting a discussion](https://github.com/mrivard/accessible-astro-starter-ts/discussions)
 
-For any issues that are *not* Typescript-related, you would be much better served by engaging with [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter?tab=readme-ov-file#%EF%B8%8F-helping-out) instead.
+For any issues that are *not* TypeScript-related, you would be much better served by engaging with [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter?tab=readme-ov-file#%EF%B8%8F-helping-out) instead.
 
 ## ☕ Thank you!
 
-A big thank you to [Mark Teekman](https://github.com/markteekman) and his [contributors](https://github.com/markteekman/accessible-astro-starter/graphs/contributors), who did 99.999% of the work on this theme, and to the creators of the awesome Astro static site generator. I forked Mark's theme for my own personal use, and perhaps you will find it useful as well.
+A big thank you to [Mark Teekman](https://github.com/markteekman) and his [contributors](https://github.com/markteekman/accessible-astro-starter/graphs/contributors), who did 99.999% of the work on this starter theme, and to the creators of the awesome Astro static site generator! I forked Mark's theme for my own personal use, and perhaps you will find it useful as well.
 
