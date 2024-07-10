@@ -93,7 +93,7 @@ import logo from '../assets/img/logo.svg'
 
     const closeAllDropdownMenus = () => {
       for (let i = 0; i < dropdownMenus.length; i++) {
-        closeDropdownMenu(dropdownMenus[i])
+        closeDropdownMenu(dropdownMenus[i] as HTMLElement)
       }
     }
 
